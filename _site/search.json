@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "Introduccion.html#los-tópicos-de-hoy",
+    "href": "Introduccion.html#los-tópicos-de-hoy",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Los Tópicos de Hoy",
+    "text": "Los Tópicos de Hoy\n\n\n\nCiencia de datos.\n\n\n\n\nVisualización y sus tres principios.\n\n\n\n\n\n\n\nActividad."
+  },
+  {
+    "objectID": "Introduccion.html#la-ciencia-de-datos-es",
+    "href": "Introduccion.html#la-ciencia-de-datos-es",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "La ciencia de datos es …",
+    "text": "La ciencia de datos es …\nun campo interdisciplinario que utiliza métodos, procesos, algoritmos y sistemas científicos para extraer conocimientos e ideas de muchos datos estructurados y no estructurados."
+  },
+  {
+    "objectID": "Introduccion.html#en-el-2004",
+    "href": "Introduccion.html#en-el-2004",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "En el 2004 …",
+    "text": "En el 2004 …\nEl huracán Frances estaba arrasando el Caribe y amenazando con golpear directamente la costa atlántica de Florida.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLos residentes se dirigieron a terrenos más altos, pero en Arkansas, los ejecutivos de Wal-Mart vieron que la situación ofrecía una gran oportunidad para una de sus armas más nuevas basadas en datos: la tecnología predictiva."
+  },
+  {
+    "objectID": "Introduccion.html#section",
+    "href": "Introduccion.html#section",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "",
+    "text": "Una semana antes de que la tormenta tocara tierra, Linda M. Dillman, directora de información de Wal-Mart, presionó a su personal para que elaboraran pronósticos basados en lo que había sucedido cuando el huracán Charley azotó varias semanas antes.\n\nRespaldada por billones de bytes de historial de compradores almacenados en el almacén de datos de Wal-Mart, consideró que la empresa podría “empezar a predecir lo que va a suceder, en lugar de esperar a que suceda”, como ella dijo."
+  },
+  {
+    "objectID": "Introduccion.html#de-hecho-eso-es-lo-que-pasó",
+    "href": "Introduccion.html#de-hecho-eso-es-lo-que-pasó",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "¡De hecho, eso es lo que pasó!",
+    "text": "¡De hecho, eso es lo que pasó!\n\n\nEl New York Times informó\n\n\n“… los expertos analizaron los datos y descubrieron que las tiendas efectivamente necesitarían ciertos productos, y no sólo las habituales linternas.”\n\n\n\nDillman dijo\n\n\n“No sabíamos en el pasado que las Pop-Tarts de fresa aumentan sus ventas, como siete veces su tasa de ventas normal, antes de un huracán”"
+  },
+  {
+    "objectID": "Introduccion.html#el-esquema-de-ciencia-de-datos",
+    "href": "Introduccion.html#el-esquema-de-ciencia-de-datos",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "El esquema de ciencia de datos",
+    "text": "El esquema de ciencia de datos"
+  },
+  {
+    "objectID": "Introduccion.html#business-understanding",
+    "href": "Introduccion.html#business-understanding",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Business understanding",
+    "text": "Business understanding\n\nLa comprensión empresarial se refiere a definir el problema empresarial a resolver.\nEl objetivo es reformular el problema empresarial como un problema de ciencia de datos.\nA menudo, reformular el problema y diseñar una solución es un proceso iterativo."
+  },
+  {
+    "objectID": "Introduccion.html#data-understanding",
+    "href": "Introduccion.html#data-understanding",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Data understanding",
+    "text": "Data understanding\n\n\nSi el objetivo es resolver un problema empresarial, los datos que componen la materia prima disponible a partir de la cual se construirá la solución.\nLos datos disponibles rara vez coinciden con el problema.\nPor ejemplo, los datos históricos a menudo se recopilan con fines no relacionados con el problema empresarial actual o sin ningún propósito explícito.\n\n\n\n\nNuestro objetivo es convertir los datos en información que contesten preguntas útiles."
+  },
+  {
+    "objectID": "Introduccion.html#tipos-de-datos",
+    "href": "Introduccion.html#tipos-de-datos",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Tipos de datos",
+    "text": "Tipos de datos\n\n\n\nTexto\n\n\nImágenes\n\nVideo\n\n\nAudio"
+  },
+  {
+    "objectID": "Introduccion.html#datos-númericos",
+    "href": "Introduccion.html#datos-númericos",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Datos númericos",
+    "text": "Datos númericos\nLa metodología de ciencia de datos esta basada en datos númericos dados en tablas.\n\n\nDe hecho, los textos, imágenes, videos o audios son transformados a este formato para procesarlos.\n\n\nEn este curso, asumiremos que los datos están en una tabla.\n\nMas importante, asumiremos que los datos han sido limpiados y no contienen typos o observaciones extrañas."
+  },
+  {
+    "objectID": "Introduccion.html#la-situación-problema",
+    "href": "Introduccion.html#la-situación-problema",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "La Situación Problema",
+    "text": "La Situación Problema\nYouTube es una plataforma para compartir vídeos ampliamente conocida por la diversidad de vídeos subidos por sus usuarios.\nEl sitio permite a sus usuarios cargar, ver, calificar, compartir y comentar videos.\nUn tipo particular de usuario es el creador de contenido, quien frecuentemente crea y sube videos entretenidos a la plataforma."
+  },
+  {
+    "objectID": "Introduccion.html#objetivo-de-la-situación-problema",
+    "href": "Introduccion.html#objetivo-de-la-situación-problema",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Objetivo de la situación problema",
+    "text": "Objetivo de la situación problema\n\nEsta situación problema concierne la creación de un póster que informe a un creador de contenido de Youtube los aspectos mas importantes del formato miniatura de un video. Es decir, que estén asociadas a un número de vistas grande.\n\nPara esto, tendrás a tu disposición una base de datos con 7242 videos y 51 variables que se encuentra en el archivo “YouTube_Dataset.xlsx.”\nPuedes encontrar más información en nuestra página de Canvas."
+  },
+  {
+    "objectID": "Introduccion.html#qué-es-la-visualización-de-datos",
+    "href": "Introduccion.html#qué-es-la-visualización-de-datos",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "¿Qué es la visualización de datos?",
+    "text": "¿Qué es la visualización de datos?\n\n“Una visualización [de datos] es cualquier presentación visual destinada a revelar evidencia, haciendo visible lo invisible” Alberto Cairo (2015)."
+  },
+  {
+    "objectID": "Introduccion.html#section-1",
+    "href": "Introduccion.html#section-1",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "",
+    "text": "En escencia, una visualización de datos te permite profundizar en conjuntos de datos complejos para obtener información significativa mediante el uso de pantallas gráficas.\n\nLas visualizaciones de datos se ocupan principalmente de proporcionar evidencia y permitir que la audiencia explore y llegue a sus propias conclusiones sobre lo que las visualizaciones revelan sobre los datos.\n\nAs data scientists, we create data visualizations in order to understand our data and explain our analyses to other people. A plot should have a message, and it’s our job to communicate this message as clearly as possible."
+  },
+  {
+    "objectID": "Introduccion.html#principio-1-formula-el-mensaje",
+    "href": "Introduccion.html#principio-1-formula-el-mensaje",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Principio 1: Formula el mensaje",
+    "text": "Principio 1: Formula el mensaje\nMuchas veces el mensaje se obtiene al contestar una pregunta de interés.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEl mensaje puede ser una pregunta\n\n¿Cuál es la comparación importante?\n¿Cómo la enfatizamos?\nDo you have reason to expect that one group/observation might be different?\nWhy might your finding about shape matter?\nWhat additional comparison might bring added value to the investigation?\nAre there any potentially important features to create comparisons with/against?\n\n[Incluir noticias del new york times]"
+  },
+  {
+    "objectID": "Introduccion.html#principio-2-transforma-los-datos-en-información",
+    "href": "Introduccion.html#principio-2-transforma-los-datos-en-información",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Principio 2: Transforma los datos en información",
+    "text": "Principio 2: Transforma los datos en información\nTu gráfica debe de usar los datos para transmitir el mensaje o contestar la pregunta. Es decir, debe de transformar los datos en información.\n\n\n\n\n\n\n\n\n\n\n\nEnriquece tu gráfica con símbolos de color y texto para transmitir información adicional."
+  },
+  {
+    "objectID": "Introduccion.html#principio-3-aplica-los-principios-del-diseño-gráfico",
+    "href": "Introduccion.html#principio-3-aplica-los-principios-del-diseño-gráfico",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Principio 3: Aplica los principios del diseño gráfico",
+    "text": "Principio 3: Aplica los principios del diseño gráfico\n\n\n\n\n\n\nEs fácil identificar objetos por color.\nUtiliza etiquetas directas en lugar de una leyenda.\nElementos como texto, líneas, y formas que tengan la misma naturaleza deben parecerse.\nEquilibra gráficos y texto.\nTen cuidado con las opciones predeterminadas del software de visualización.\nUsa un diseño de cuadrícula para organizar su visualización.\n\n\n\n\n\n\n\n\n\nNo te limites a cosas simples. Enriquece tu gráfica con símbolos de color para transmitir información adicional. Si es posible, agrega contexto con marcadores y etiquetas de referencia.\nTambién, agrega una leyenda a la grafica que describa las características importantes y resuma sus conclusiones."
+  },
+  {
+    "objectID": "Introduccion.html#section-2",
+    "href": "Introduccion.html#section-2",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "",
+    "text": "“El mayor valor de una imagen es cuando nos obliga a notar lo que nunca esperábamos ver.” John W. Tukey.\n\n\n\n\n\n\nPrincipios del diseño gráfico\n\nEs más fácil identificar objetos por color que por forma.\nCuando sea posible, utiliza etiquetas directas en lugar de una leyenda.\nElementos como texto, líneas, formas, etc., que tengan la misma naturaleza deben parecerse.\nHaz un esfuerzo por lograr un equilibrio entre gráficos y texto.\nTen cuidado con las opciones predeterminadas del software de visualización.\nUtiliza un diseño de cuadrícula para organizar su visualización."
+  },
+  {
+    "objectID": "Introduccion.html#actividad-cooperative-mode",
+    "href": "Introduccion.html#actividad-cooperative-mode",
+    "title": "Sesión 1:\n¿Qué es la visualización de datos?",
+    "section": "Actividad (cooperative mode)",
+    "text": "Actividad (cooperative mode)\n\nJúntate con un compañero.\nEncuentren un buen y un mal ejemplo de una visualización (gráficas) en linea.\nGuarden las visualizaciones (por ejemplo, haciendo una captura de pantalla).\nEscriban una crítica breve (3 a 4 enunciados) de cada visualización.\nSuban un documento con sus criticas e imagenes en Canvas."
+  }
+]
